@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <UserSecretsId>dotnet-StackOverflowArchive.Jobs.Scheduler-49904691-624B-42B8-9227-9B27695195C3</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="9.0.0" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="9.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="6.0.0-preview.5.21301.5" />
+    <PackageReference Include="Quartz" Version="3.3.2" />
+    <PackageReference Include="Quartz.Extensions.Hosting" Version="3.3.2" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\StackOverflowArchive.Jobs.Application\StackOverflowArchive.Jobs.Application.csproj" />
+  </ItemGroup>
+</Project>

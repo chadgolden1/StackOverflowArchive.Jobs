@@ -1,0 +1,1 @@
+﻿dotnet ef dbcontext scaffold "Server=localhost;Database=StackOverflow2010;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer --table Posts --context ApplicationDbContext --context-dir Data --output-dir Models

@@ -14,7 +14,7 @@ Reference application of a job scheduler using Quartz with ASP.NET Core worker s
 * .NET 6 Preview
 
 ## Reference Links
-[Quartz: Open-source job scheduling system for .NET](https://www.quartz-scheduler.net/)
-[Andrew Lock: Using Quartz.NET with ASP.NET Core and Worker Services](https://andrewlock.net/using-quartz-net-with-asp-net-core-and-worker-services/)
-[Brent Ozar: How to Download the Stack Overflow Database](https://www.brentozar.com/archive/2015/10/how-to-download-the-stack-overflow-database-via-bittorrent/)
-[Stack Exchange Data Dump Details and License](https://archive.org/details/stackexchange)
+* [Quartz: Open-source job scheduling system for .NET](https://www.quartz-scheduler.net/)
+* [Andrew Lock: Using Quartz.NET with ASP.NET Core and Worker Services](https://andrewlock.net/using-quartz-net-with-asp-net-core-and-worker-services/)
+* [Brent Ozar: How to Download the Stack Overflow Database](https://www.brentozar.com/archive/2015/10/how-to-download-the-stack-overflow-database-via-bittorrent/)
+* [Stack Exchange Data Dump Details and License](https://archive.org/details/stackexchange)
